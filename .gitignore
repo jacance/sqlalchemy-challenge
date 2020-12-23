@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+.DS_Store
+EmployeeSQL/.DS_Store
+EmployeeSQL/data/.DS_Store
+EmployeeSQL/login.py
+login.py
+__pycache__
+EmployeeSQL/__pycache__
