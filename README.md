@@ -1,4 +1,4 @@
-# sqlalchemy-challenge
+# Hawaii Climate Analysis
 
 ## Background
 
