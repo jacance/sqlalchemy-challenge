@@ -110,3 +110,20 @@ Python and SQLAlchemy are used to do  climate analysis and data exploration of t
 - Load the list of daily normals into a Pandas DataFrame and set the index equal to the date.
 
 - Use Pandas to plot an area plot for the daily normals.
+
+
+## Technologies
+
+- Python
+
+- Pandas
+
+- SQLAlchemy
+
+- HTML
+
+- Flask
+
+- Matplotlib
+
+- Jupyter Notebook
