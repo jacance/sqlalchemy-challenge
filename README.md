@@ -1,5 +1,8 @@
 # Hawaii Climate Analysis
 
+![Alt text](Resources/surf.png?raw=true "Title")
+
+## Background
 
 This project analyzes the climate of Honolulu, Hawaii for trip planning.
 
